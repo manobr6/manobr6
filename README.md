@@ -1,7 +1,7 @@
 ### 👉😏👉
 
-- 🔭 No momento não estou trabalhando com nada
-- 🌱 Eu estou aprendendo HTML/CSS
+- 🔭 No momento não estou trabalhando
+- 🌱 Aprendendo HTML/CSS
 - 😄 Pronouns: ele/dele
 - 👀 Iniciante
 
